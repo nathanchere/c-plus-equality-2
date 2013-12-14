@@ -1,4 +1,6 @@
-  ![FSF](http://i.imgur.com/wTZHCs0.png)
+ **DISCLAIMER:** This is a work of satire which mocks the extremist views of a certain minority of the social justice activist scene. By no means should this be misconstrued as an attack on women’s rights, civil liberties and social equality, of which we are all proponents. Please embrace the hacker spirit of playfulness and approach this with humility and understanding, as we do ourselves.
+
+ ![FSF](http://i.imgur.com/wTZHCs0.png)
 
 A project of the [Feminist Software Foundation](http://feministsoftwarefoundation.org/).  Feminist software is a cornerstone of any modern free society. We build this foundation.
 
@@ -82,7 +84,7 @@ Data types and Structures
 * **Constants are not allowed**, as the idea of a lack of identity fluidity is problematic. Additionally, if one constant were larger than another, that would privilege the larger one over the smaller one. As such, any numeric value is a variable, and is required to take on at least 2 values over the course of the program, or the interpreter will throw a **Trigger Warning**.
 * The only constants are the amount of privilege lobbyings are share()d with. These are all real values greater than 0, the only exception is the value of **WHITE_HETEROSEXUAL_CISGENDER_MALE_PRIVILEGE** which is set to infinity, and also the value of **PATRIARCHY**, which is set to sqrt(-1).  The value of **PATRIARCHY** is non-deterministically i, -i, or something else depending on how it identifies itself.
 * Instead of **signed and unsigned**, types in **C+=** are either **cis or trans*.** Any **trans*** types function the same as **_diversity_**.
-* There is to be no lexical scoping â all variables are now global.  Global variables are now called **cosmopolitan**, or **_cosmo_** for short.
+* There is to be no lexical scoping Ã¢ÂÂ all variables are now global.  Global variables are now called **cosmopolitan**, or **_cosmo_** for short.
 * There is to be **no encapsulation**: don't tell me to protect my members, tell other functions not to access them!
 * Every variable has a random percentage of consent associated to it.   variable can be affected with a number if and only if it is consenting.  Failure to do so will result in **C+=** throwing a ForcedInsertionTriggerWarning.
 
@@ -95,7 +97,7 @@ Data types and Structures
 ![BooleanPlus](http://i.imgur.com/elpljBY.png)
 * **Strings** are called **Ideals**, or **_id_** for short.  Feminist ideals are usually extremely well written, detailed and lengthy, clearly longer than what could be held with a simple char array.
 * **Characters** are now called **_strong_**.
-* **Pointers** are called **preferred pronouns**, or **_prepro_** for short.  *Pointer* is phallic and is thus problematic.  All **_prepro_**s of void type by default â in fact, all variables must be instantiated without type, and are allowed to randomly choose their type during execution.
+* **Pointers** are called **preferred pronouns**, or **_prepro_** for short.  *Pointer* is phallic and is thus problematic.  All **_prepro_**s of void type by default Ã¢ÂÂ in fact, all variables must be instantiated without type, and are allowed to randomly choose their type during execution.
 * A new data type, **_diversity_**, is also included, which initiates by random as one of the many data types, and changes during the course of the program.
 * In general, all data types are dynamic.  Who's to say a number can't be a string if it believes it is?
 * Data structures and variables of all kinds have a random chance of deciding that they don't "feel right", and are actually a different type, and must henceforth be referred to ONLY as its preferred data type.
