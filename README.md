@@ -26,12 +26,12 @@ Philosophy
 10. Instead of "running" a program, which implies thin privilege and pressure to "work out", programs are "given birth".  After birth, a program rolls for a 40% chance of executing literally as the code is written, 40% of being "psychoanalytically incompatible", and 40% of executing by a metaphorical epistemology the order of the functions found in main().
 11. Programs are never to be ["forked"](https://en.wikipedia.org/wiki/Fork_(system_call\)), as the word has clear misogynistic tendencies and is deeply problematic.  Instead, programmers may never demand "forking", but ask for the program to voluntarily give permission.  "Forking" will henceforth be called ["consenting"](https://en.wikipedia.org/wiki/Consent), and it is entirely up to the program to decide if the consent stands valid, regardless of the progress of the system clock.
 12. Forced program termination is not allowed unless the program consents to it.  The process is part of the choice of the program, not the programmer.
-13. Licensing: the [Feminist Software Foundation License](https://bitbucket.org/FeministSoftwareFoundation/c-plus-equality/src/3384aa8cfbc6c82f4b09c64a8bcd6684a21a3a6d/LICENSE?at=mistress).
+13. Licensing: the [Feminist Software Foundation License](https://github.com/fnordbg/c-plus-equality/blob/master/LICENSE).
 
 Code Examples
 =============
 
-See our [FizzBuzz implementation](https://bitbucket.org/FeministSoftwareFoundation/c-plus-equality/src/3384aa8cfbc6c82f4b09c64a8bcd6684a21a3a6d/fizzbuzz.Xe?at=mistress).  Also, [Diamonds](https://bitbucket.org/FeministSoftwareFoundation/c-plus-equality/src/3384aa8cfbc6/diamonds.Xe?at=mistress).
+See our [FizzBuzz implementation](https://github.com/fnordbg/c-plus-equality/blob/master/fizzbuzz.Xe).  Also, [Diamonds](https://github.com/fnordbg/c-plus-equality/blob/master/diamonds.Xe).
 
 Our in*her*preter is still in its early stages, but it is perfectly fine and don't you dare criticise/-ize and shame it.  In*her*preter usage is as follows: ./inherpret program.Xe
 
@@ -82,7 +82,7 @@ Data types and Structures
 * **Constants are not allowed**, as the idea of a lack of identity fluidity is problematic. Additionally, if one constant were larger than another, that would privilege the larger one over the smaller one. As such, any numeric value is a variable, and is required to take on at least 2 values over the course of the program, or the interpreter will throw a **Trigger Warning**.
 * The only constants are the amount of privilege lobbyings are share()d with. These are all real values greater than 0, the only exception is the value of **WHITE_HETEROSEXUAL_CISGENDER_MALE_PRIVILEGE** which is set to infinity, and also the value of **PATRIARCHY**, which is set to sqrt(-1).  The value of **PATRIARCHY** is non-deterministically i, -i, or something else depending on how it identifies itself.
 * Instead of **signed and unsigned**, types in **C+=** are either **cis or trans*.** Any **trans*** types function the same as **_diversity_**.
-* There is to be no lexical scoping — all variables are now global.  Global variables are now called **cosmopolitan**, or **_cosmo_** for short.
+* There is to be no lexical scoping â all variables are now global.  Global variables are now called **cosmopolitan**, or **_cosmo_** for short.
 * There is to be **no encapsulation**: don't tell me to protect my members, tell other functions not to access them!
 * Every variable has a random percentage of consent associated to it.   variable can be affected with a number if and only if it is consenting.  Failure to do so will result in **C+=** throwing a ForcedInsertionTriggerWarning.
 
@@ -95,7 +95,7 @@ Data types and Structures
 ![BooleanPlus](http://i.imgur.com/elpljBY.png)
 * **Strings** are called **Ideals**, or **_id_** for short.  Feminist ideals are usually extremely well written, detailed and lengthy, clearly longer than what could be held with a simple char array.
 * **Characters** are now called **_strong_**.
-* **Pointers** are called **preferred pronouns**, or **_prepro_** for short.  *Pointer* is phallic and is thus problematic.  All **_prepro_**s of void type by default — in fact, all variables must be instantiated without type, and are allowed to randomly choose their type during execution.
+* **Pointers** are called **preferred pronouns**, or **_prepro_** for short.  *Pointer* is phallic and is thus problematic.  All **_prepro_**s of void type by default â in fact, all variables must be instantiated without type, and are allowed to randomly choose their type during execution.
 * A new data type, **_diversity_**, is also included, which initiates by random as one of the many data types, and changes during the course of the program.
 * In general, all data types are dynamic.  Who's to say a number can't be a string if it believes it is?
 * Data structures and variables of all kinds have a random chance of deciding that they don't "feel right", and are actually a different type, and must henceforth be referred to ONLY as its preferred data type.
