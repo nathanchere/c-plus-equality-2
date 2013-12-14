@@ -1,4 +1,4 @@
- **DISCLAIMER:** This is a work of satire which mocks the extremist views of a certain minority of the social justice activist scene. By no means should this be misconstrued as an attack on women’s rights, civil liberties and social equality, of which we are all proponents. Please embrace the hacker spirit of playfulness and approach this with humility and understanding, as we do ourselves.
+ **DISCLAIMER:** This is a work of satire which mocks the extremist views of a certain minority of the social justice activist scene. By no means should this be misconstrued as an attack on women’s rights, civil liberties and social equality. We oppose discrimination on the basis of sex, gender, race or any other factor. Please embrace the hacker spirit of playfulness and approach this with humility and understanding, as we do ourselves.
 
  ![FSF](http://i.imgur.com/wTZHCs0.png)
 
